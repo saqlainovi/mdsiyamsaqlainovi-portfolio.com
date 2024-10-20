@@ -20538,8 +20538,8 @@
             return t.white;
           }
         ),
-        Lr = n.p + "assets/images/profile black.png",
-        Ir = n.p + "assets/images/profile white.jpg";
+        Lr = n.p + "https://ibb.co.com/N2RTrqK",
+        Ir = n.p + "https://ibb.co.com/TWxLrpw";
       var Nr = n(8023),
         Mr = n.n(Nr);
       const zr = (e) => {
