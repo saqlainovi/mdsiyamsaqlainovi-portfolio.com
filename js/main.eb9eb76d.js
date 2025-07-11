@@ -19519,7 +19519,6 @@
             role: "Android Development & Full Stack Tutorials",
             company: "YouTube",
             date: "December 2023 - Present",
-            desc: "In addition to my technical skills, I'm passionate about sharing knowledge and empowering others. I actively create high-quality tutorials on my YouTube channel, covering topics like full-stack development, database configuration, and Android development. These tutorials cater to a range of learners, from beginners to those looking to refine their skills. My focus is on providing clear explanations, practical examples, and an engaging learning experience.",
             skills: [
               "ReactJS",
               "Next Js",
