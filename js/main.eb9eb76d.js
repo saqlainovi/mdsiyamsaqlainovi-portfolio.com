@@ -19346,7 +19346,7 @@
             "https://drive.google.com/file/d/1YHsSNLCiuHMPN0zXkyaTvLQ_bBw2GFCU/view?usp=sharing",
           linkedin: "https://www.linkedin.com/in/md-siyam-saqlain-ovi-a93a97113/",
           //twitter: "https://twitter.com/francis_tech_",
-          //youTube: "https://www.youtube.com/channel/UCIaqBsk6GdL0GPIJ9ThOrMA",
+          //youTube: "",
           //whatsApp: "https://wa.me/254111248429",
         },
         jn = [
