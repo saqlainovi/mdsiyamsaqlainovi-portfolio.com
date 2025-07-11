@@ -19515,7 +19515,7 @@
             id: 1,
             img: kn,
             youtubeImg:
-              "https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg",
+              "",
             role: "Android Development & Full Stack Tutorials",
             company: "YouTube",
             date: "December 2023 - Present",
@@ -25024,7 +25024,7 @@
                       (0, ir.jsx)(Wc, {
                         children: (0, ir.jsx)("span", {
                           style: { padding: "10px" },
-                          children: "Frank Tech Channel",
+                          children: "",
                         }),
                       }),
                     ],
