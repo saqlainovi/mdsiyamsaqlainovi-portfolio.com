@@ -19531,7 +19531,7 @@
               "FireBase",
               "MongoDB",
             ],
-            doc: "https://www.youtube.com/channel/UCIaqBsk6GdL0GPIJ9ThOrMA",
+            doc: "",
           },
           {
             id: 4,
