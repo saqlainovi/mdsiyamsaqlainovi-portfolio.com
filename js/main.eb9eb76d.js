@@ -19343,7 +19343,7 @@
             "Computer Science graduate with a passion for AI and software development. Completed research on Parkinson's Disease detection using deep learning—manuscript under journal review. Built web applications serving 500+ users. NTVQF Level 1 certified IT professional. Seeking opportunities in tech companies to build impactful products.",
           github: "https://github.com/saqlainovi",
           resume:
-            "https://drive.google.com/file/d/18ZpM1SR_d5lGQqaFZ4jbskkmOb1F5eF-/view?usp=sharing",
+            "https://drive.google.com/file/d/19GSur_Wovy9KlFdy1bv_5MjYJBUntJ5t/view?usp=sharing",
           linkedin: "https://www.linkedin.com/in/md-siyam-saqlain-ovi-a93a97113/",
           email: "mdsiyamsaqlainovi@gmail.com",
           phone: "+8801629474637",
